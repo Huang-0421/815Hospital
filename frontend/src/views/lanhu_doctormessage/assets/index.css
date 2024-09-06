@@ -1,0 +1,363 @@
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 750px;
+  height: 1624px;
+  overflow: hidden;
+}
+
+.group_1 {
+  width: 752px;
+  height: 1624px;
+  margin-left: -2px;
+}
+
+.tab-bar_1 {
+  width: 752px;
+  height: 166px;
+  background: url(./img/MasterDDSSlicePNGcdf45111c541c4a6af4e3144b8ed3831.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  margin-top: 1458px;
+}
+
+.tab-bar-item_1 {
+  width: 68px;
+  height: 121px;
+  margin: 13px 0 0 221px;
+}
+
+.icon_1 {
+  width: 68px;
+  height: 66px;
+}
+
+.text_1 {
+  width: 68px;
+  height: 47px;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 20px;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  line-height: 28px;
+  margin-top: 8px;
+}
+
+.tab-bar-item_2 {
+  width: 68px;
+  height: 121px;
+  margin: 13px 240px 0 155px;
+}
+
+.icon_2 {
+  width: 68px;
+  height: 66px;
+}
+
+.text_2 {
+  width: 68px;
+  height: 47px;
+  overflow-wrap: break-word;
+  color: rgba(73, 185, 173, 1);
+  font-size: 20px;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  line-height: 28px;
+  margin-top: 8px;
+}
+
+.group_2 {
+  width: 750px;
+  height: 1459px;
+  margin-left: -750px;
+}
+
+.section_1 {
+  width: 702px;
+  height: 81px;
+  margin: 40px 0 0 22px;
+}
+
+.single-avatar_1 {
+  height: 80px;
+  background: url(./img/MasterDDSSlicePNG77a600deaed79b23cb3e443c7c8b8de4.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  width: 80px;
+}
+
+.box_1 {
+  background-color: rgba(246, 87, 85, 1);
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  margin: 1px 0 0 64px;
+}
+
+.text-wrapper_1 {
+  width: 399px;
+  height: 80px;
+  margin: 1px 0 0 32px;
+}
+
+.text_3 {
+  width: 60px;
+  height: 42px;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 30px;
+  font-family: PingFang-SC-Medium-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 42px;
+}
+
+.text_4 {
+  width: 399px;
+  height: 33px;
+  overflow-wrap: break-word;
+  color: rgba(197, 200, 203, 1);
+  font-size: 24px;
+  font-family: PingFangSC-Regular-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 34px;
+  margin-top: 5px;
+}
+
+.text_5 {
+  width: 169px;
+  height: 33px;
+  overflow-wrap: break-word;
+  color: rgba(197, 200, 203, 1);
+  font-size: 24px;
+  font-family: PingFangSC-Regular-Regular;
+  font-weight: NaN;
+  text-align: right;
+  white-space: nowrap;
+  line-height: 34px;
+  margin: 7px 0 0 22px;
+}
+
+.section_2 {
+  width: 590px;
+  height: 1px;
+  margin: 30px 0 0 134px;
+}
+
+.section_3 {
+  width: 590px;
+  height: 1px;
+}
+
+.section_4 {
+  width: 702px;
+  height: 80px;
+  margin: 30px 0 0 22px;
+}
+
+.single-avatar_2 {
+  width: 80px;
+  height: 80px;
+}
+
+.text-group_1 {
+  width: 288px;
+  height: 80px;
+  margin-left: 32px;
+}
+
+.text_6 {
+  width: 90px;
+  height: 42px;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 30px;
+  font-family: PingFang-SC-Medium-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 42px;
+}
+
+.text_7 {
+  width: 288px;
+  height: 33px;
+  overflow-wrap: break-word;
+  color: rgba(197, 200, 203, 1);
+  font-size: 24px;
+  font-family: PingFangSC-Regular-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 34px;
+  margin-top: 5px;
+}
+
+.text_8 {
+  width: 169px;
+  height: 33px;
+  overflow-wrap: break-word;
+  color: rgba(197, 200, 203, 1);
+  font-size: 24px;
+  font-family: PingFangSC-Regular-Regular;
+  font-weight: NaN;
+  text-align: right;
+  white-space: nowrap;
+  line-height: 34px;
+  margin: 6px 0 0 133px;
+}
+
+.section_5 {
+  width: 590px;
+  height: 1px;
+  margin: 30px 0 0 134px;
+}
+
+.box_2 {
+  width: 590px;
+  height: 1px;
+}
+
+.section_6 {
+  width: 702px;
+  height: 81px;
+  margin: 30px 0 0 22px;
+}
+
+.single-avatar_3 {
+  width: 80px;
+  height: 80px;
+}
+
+.text-group_2 {
+  width: 336px;
+  height: 80px;
+  margin: 1px 0 0 32px;
+}
+
+.text_9 {
+  width: 174px;
+  height: 42px;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 30px;
+  font-family: PingFang-SC-Medium-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 42px;
+}
+
+.text_10 {
+  width: 336px;
+  height: 33px;
+  overflow-wrap: break-word;
+  color: rgba(197, 200, 203, 1);
+  font-size: 24px;
+  font-family: PingFangSC-Regular-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 34px;
+  margin-top: 5px;
+}
+
+.text_11 {
+  width: 169px;
+  height: 33px;
+  overflow-wrap: break-word;
+  color: rgba(197, 200, 203, 1);
+  font-size: 24px;
+  font-family: PingFangSC-Regular-Regular;
+  font-weight: NaN;
+  text-align: right;
+  white-space: nowrap;
+  line-height: 34px;
+  margin: 7px 0 0 85px;
+}
+
+.section_7 {
+  width: 590px;
+  height: 1px;
+  margin: 30px 0 0 134px;
+}
+
+.block_1 {
+  width: 590px;
+  height: 1px;
+}
+
+.section_8 {
+  width: 702px;
+  height: 80px;
+  margin: 30px 0 0 22px;
+}
+
+.single-avatar_4 {
+  width: 80px;
+  height: 80px;
+}
+
+.text-group_3 {
+  width: 312px;
+  height: 80px;
+  margin-left: 32px;
+}
+
+.text_12 {
+  width: 90px;
+  height: 42px;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 30px;
+  font-family: PingFang-SC-Medium-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 42px;
+}
+
+.text_13 {
+  width: 312px;
+  height: 33px;
+  overflow-wrap: break-word;
+  color: rgba(197, 200, 203, 1);
+  font-size: 24px;
+  font-family: PingFangSC-Regular-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 34px;
+  margin-top: 5px;
+}
+
+.text_14 {
+  width: 169px;
+  height: 33px;
+  overflow-wrap: break-word;
+  color: rgba(197, 200, 203, 1);
+  font-size: 24px;
+  font-family: PingFangSC-Regular-Regular;
+  font-weight: NaN;
+  text-align: right;
+  white-space: nowrap;
+  line-height: 34px;
+  margin: 6px 0 0 109px;
+}
+
+.section_9 {
+  width: 590px;
+  height: 1px;
+  margin: 30px 0 883px 134px;
+}
+
+.box_3 {
+  width: 590px;
+  height: 1px;
+}

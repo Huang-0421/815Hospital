@@ -1,0 +1,183 @@
+html {
+  font-size: 37.5px;
+}
+
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 20rem;
+  height: 43.307rem;
+  overflow: hidden;
+}
+
+.image-wrapper_1 {
+  height: 12.374rem;
+  background: url(./img/breathe.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  width: 20rem;
+}
+
+.image_1 {
+  width: 1.067rem;
+    height: 1.067rem;
+    margin: 0.64 0 0 0.64rem;
+  	margin-left: 0.5rem;
+  	margin-top: 0.5rem;
+}
+
+.block_1 {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 20rem;
+  height: 23.894rem;
+  margin: 3.734rem 0 3.307rem 0;
+}
+
+.text_1 {
+  width: 3.414rem;
+  height: 1.52rem;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 0.853rem;
+  font-family: Helvetica, "Microsoft YaHei", Arial, sans-serif;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.2rem;
+  margin-left: 0.64rem;
+}
+
+.text-wrapper_1 {
+  background-color: rgba(245, 247, 251, 1);
+  border-radius: 10px;
+  height: 3.387rem;
+  width: 18.72rem;
+  margin: 0.667rem 0 0 0.64rem;
+}
+
+.text_2 {
+  width: 17.814rem;
+  height: 1.36rem;
+  overflow-wrap: break-word;
+  color: rgba(64, 69, 75, 1);
+  font-size: 0.746rem;
+  font-family: Helvetica, "Microsoft YaHei", Arial, sans-serif;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.04rem;
+  margin: 1.014rem 0 0 0.454rem;
+}
+
+.text_3 {
+  width: 3.414rem;
+  height: 3.36rem;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 0.853rem;
+  font-family: Helvetica, "Microsoft YaHei", Arial, sans-serif;
+  font-weight: NaN;
+  text-align: left;
+  line-height: 1.2rem;
+  margin: 0.214rem 0 14.747rem 0.64rem;
+}
+
+.text-wrapper_2 {
+  background-color: rgba(245, 247, 251, 1);
+  border-radius: 10px;
+  height: 15rem;
+  width: 18.72rem;
+  position: absolute;
+  left: 0.64rem;
+  top: 7.467rem;
+}
+
+.paragraph_1 {
+  width: 17.814rem;
+  height: 13.574rem;
+  overflow-wrap: break-word;
+  color: rgba(64, 69, 75, 1);
+  font-size: 0.746rem;
+  font-family: Helvetica, "Microsoft YaHei", Arial, sans-serif;
+  font-weight: NaN;
+  text-align: left;
+
+  margin: 0.56rem 0 0 0.454rem;
+  overflow: auto
+}
+
+.block_2 {
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 20px 20px 0px 0px;
+  position: absolute;
+  left: 0;
+  top: 11.84rem;
+  width: 20rem;
+  height: 4.267rem;
+  justify-content: flex-center;
+}
+
+.text_4 {
+  width: 4.214rem;
+  height: 1.2rem;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 0.853rem;
+  font-family: Helvetica, "Microsoft YaHei", Arial, sans-serif;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.2rem;
+  margin: 0.8rem 0 0 0.64rem;
+}
+
+.box_1 {
+  width: 6.934rem;
+  height: 0.934rem;
+  margin: 0.534rem 0 0.8rem 0.64rem;
+}
+
+.text-wrapper_3{
+  background-color: rgba(234, 254, 250, 1); /* or  for text-wrapper_4 */
+  border-radius: 10px;
+  height: 0.934rem;
+  border: 1px solid rgba(73, 185, 173, 1); /* or  for text-wrapper_4 */
+  width: 3.2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text-wrapper_4 {
+  background-color: rgba(255, 242, 232, 1); /* or rgba(234, 254, 250, 1) for text-wrapper_4 */
+  border-radius: 10px;
+  height: 0.934rem;
+  border: 1px solid rgba(250, 84, 28, 1); /* or rgba(73, 185, 173, 1) for text-wrapper_4 */
+  width: 3.2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text_5{
+  width: auto;
+  height: auto;
+  color: rgba(73, 185, 173, 1); /* or  for text_6 */
+  font-size: 0.533rem;
+  font-family: Helvetica, "Microsoft YaHei", Arial, sans-serif;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 0.747rem; /* Optional: can be adjusted based on the desired text spacing */
+  margin: 0;
+}
+.text_6 {
+  width: auto;
+  height: auto;
+  color: rgba(250, 84, 28, 1); /* or rgba(73, 185, 173, 1) for text_6 */
+  font-size: 0.533rem;
+  font-family: Helvetica, "Microsoft YaHei", Arial, sans-serif;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 0.747rem; /* Optional: can be adjusted based on the desired text spacing */
+  margin: 0;
+}

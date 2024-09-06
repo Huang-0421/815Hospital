@@ -1,0 +1,110 @@
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 100vw;
+  height: 216.54vw;
+  overflow: hidden;
+}
+
+.box_1 {
+  width: 100vw;
+  height: 216.54vw;
+  background: url(./img/MasterDDSSlicePNG152632e7cb0fd329eb75153576731c25.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+}
+
+.nav-bar_1 {
+  width: 100vw;
+  height: 11.74vw;
+  margin-top: 11.6vw;
+}
+
+.icon_1 {
+  width: 5.34vw;
+  height: 5.34vw;
+  margin: 3.33vw 0 0 3.2vw;
+}
+
+.text_1 {
+  width: 19.2vw;
+  height: 6.67vw;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 4.8vw;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 6.67vw;
+  margin: 2.66vw 40.4vw 0 31.86vw;
+}
+
+.image-wrapper_1 {
+  background-color: rgba(216, 216, 216, 1);
+  height: 46.67vw;
+  width: 46.67vw;
+  margin: 9.46vw 0 0 26.66vw;
+}
+
+.icon_2 {
+  width: 40vw;
+  height: 35.47vw;
+  margin: 5.6vw 0 0 3.33vw;
+}
+
+.text-group_1 {
+  width: 60.8vw;
+  height: 13.2vw;
+  margin: 5.33vw 0 0 19.6vw;
+}
+
+.text_2 {
+  width: 51.2vw;
+  height: 6vw;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 4.26vw;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 6vw;
+  margin-left: 4.8vw;
+}
+
+.text_3 {
+  width: 60.8vw;
+  height: 4.54vw;
+  overflow-wrap: break-word;
+  color: rgba(96, 105, 114, 1);
+  font-size: 3.2vw;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 4.54vw;
+  margin-top: 2.67vw;
+}
+
+.button_1 {
+  border-radius: 20px;
+  height: 10.67vw;
+  border: 1px solid rgba(73, 185, 173, 1);
+  width: 93.6vw;
+  margin: 23.86vw 0 84vw 3.2vw;
+}
+
+.text_4 {
+  width: 16vw;
+  height: 5.6vw;
+  overflow-wrap: break-word;
+  color: rgba(73, 185, 173, 1);
+  font-size: 4vw;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 5.6vw;
+  margin: 2.53vw 0 0 38.8vw;
+}

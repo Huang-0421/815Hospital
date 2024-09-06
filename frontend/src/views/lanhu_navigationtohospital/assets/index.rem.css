@@ -1,0 +1,49 @@
+html {
+  font-size: 37.5px;
+}
+
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 100%;
+  height: 43.307rem;
+  overflow: hidden;
+}
+
+.box_1 {
+  height: 50rem;
+  background: url(./img/MasterDDSSlicePNGabcfd9a842d1d20b612ca775475b1005.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  width: 20rem;
+}
+
+
+.block_1 {
+  background-color: rgba(255, 255, 255, 1);
+    width: 100%;
+    height: 2.214rem;
+    margin-top: 0rem;
+}
+ 
+.text_1 {
+   color: rgba(28, 32, 35, 1);
+    font-size: 0.96rem;
+    font-family: Microsoft YaHei-Regular;
+    white-space: nowrap;
+    line-height: 1.334rem;
+	/* 强行把位置调整上去 */
+    margin-top: 0.5rem;
+	margin-left: 8.5rem;
+  } 
+
+.back-button{
+	width: 2.5rem;
+	position: absolute;
+	
+}
+.img_button{
+	width: 1.067rem;
+	  height: 1.067rem;
+	  margin: 0.5rem 0 0 0rem;
+}

@@ -1,0 +1,127 @@
+.page {
+  background-color: rgba(245, 247, 251, 1);
+  position: relative;
+  width: 100vw;
+  height: 216.54vw;
+  overflow: hidden;
+}
+
+.block_1 {
+  background-color: rgba(255, 255, 255, 1);
+  width: 100vw;
+  height: 23.47vw;
+  justify-content: flex-center;
+}
+
+.nav-bar_1 {
+  background-color: rgba(255, 255, 255, 1);
+  width: 100vw;
+  height: 11.74vw;
+  margin-top: 11.74vw;
+  justify-content: flex-center;
+}
+
+.icon_1 {
+  width: 5.34vw;
+  height: 5.34vw;
+  margin: 3.2vw 0 0 3.2vw;
+}
+
+.text_1 {
+  width: 19.2vw;
+  height: 6.67vw;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 4.8vw;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 6.67vw;
+  margin: 2.53vw 0 0 31.86vw;
+}
+
+.text_2 {
+  width: 7.47vw;
+  height: 5.2vw;
+  overflow-wrap: break-word;
+  color: rgba(73, 185, 173, 1);
+  font-size: 3.73vw;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 5.2vw;
+  margin: 4.4vw 3.2vw 0 29.73vw;
+}
+
+.box_1 {
+  width: 100vw;
+  height: 11.74vw;
+  margin-bottom: 11.74vw;
+}
+
+.block_2 {
+  width: 100vw;
+  height: 193.2vw;
+  margin-bottom: 0.14vw;
+}
+
+.section_1 {
+  background-color: rgba(255, 255, 255, 1);
+  width: 100vw;
+  height: 13.34vw;
+}
+
+.icon_2 {
+  width: 4.27vw;
+  height: 4vw;
+  margin: 5.06vw 0 0 3.2vw;
+}
+
+.text_3 {
+  width: 15.47vw;
+  height: 5.2vw;
+  overflow-wrap: break-word;
+  color: rgba(73, 185, 173, 1);
+  font-size: 3.73vw;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 5.2vw;
+  margin: 4vw 72.93vw 0 4.13vw;
+}
+
+.section_2 {
+  width: 96.8vw;
+  height: 0.14vw;
+  margin: 0.53vw 0 0 3.2vw;
+}
+
+.image-wrapper_1 {
+  background-color: rgba(216, 216, 216, 1);
+  height: 33.34vw;
+  width: 33.34vw;
+  margin: 20vw 0 0 33.33vw;
+}
+
+.image_1 {
+  width: 29.34vw;
+  height: 27.87vw;
+  margin: 2.8vw 0 0 2vw;
+}
+
+.text_4 {
+  width: 22.4vw;
+  height: 4.54vw;
+  overflow-wrap: break-word;
+  color: rgba(96, 105, 114, 1);
+  font-size: 3.2vw;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 4.54vw;
+  margin: 1.33vw 0 120vw 38.8vw;
+}

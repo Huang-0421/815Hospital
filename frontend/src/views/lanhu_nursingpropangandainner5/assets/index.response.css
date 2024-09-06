@@ -1,0 +1,176 @@
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 100vw;
+  height: 216.54vw;
+  overflow: hidden;
+}
+
+.image-wrapper_1 {
+  height: 61.87vw;
+  background: url(./img/MasterDDSSlicePNGcfa0bd37f657c8040e4fef3cd8793ee7.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  width: 100vw;
+}
+
+.image_1 {
+  width: 12.4vw;
+  height: 12.14vw;
+  margin: 3.73vw 0 0 1.33vw;
+}
+
+.group_1 {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 100vw;
+  height: 119.47vw;
+  margin: 18.66vw 0 16.53vw 0;
+}
+
+.text_1 {
+  width: 17.07vw;
+  height: 7.6vw;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 4.26vw;
+  font-family: Helvetica, "Microsoft YaHei", Arial, sans-serif;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 6vw;
+  margin-left: 3.2vw;
+}
+
+.text-wrapper_1 {
+  background-color: rgba(245, 247, 251, 1);
+  border-radius: 10px;
+  height: 16.94vw;
+  width: 93.6vw;
+  margin: 3.33vw 0 0 3.2vw;
+}
+
+.text_2 {
+  width: 89.07vw;
+  height: 6.8vw;
+  overflow-wrap: break-word;
+  color: rgba(64, 69, 75, 1);
+  font-size: 3.73vw;
+  font-family: Helvetica, "Microsoft YaHei", Arial, sans-serif;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 5.2vw;
+  margin: 5.06vw 0 0 2.26vw;
+}
+
+.text_3 {
+  width: 17.07vw;
+  height: 16.8vw;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 4.26vw;
+  font-family: Helvetica, "Microsoft YaHei", Arial, sans-serif;
+  font-weight: NaN;
+  text-align: left;
+  line-height: 6vw;
+  margin: 1.06vw 0 73.73vw 3.2vw;
+}
+
+.text-wrapper_2 {
+  background-color: rgba(245, 247, 251, 1);
+  border-radius: 10px;
+  height: 88.27vw;
+  width: 93.6vw;
+  position: absolute;
+  left: 3.2vw;
+  top: 37.34vw;
+}
+
+.paragraph_1 {
+  width: 89.07vw;
+  height: 67.87vw;
+  overflow-wrap: break-word;
+  color: rgba(64, 69, 75, 1);
+  font-size: 3.73vw;
+  font-family: Helvetica, "Microsoft YaHei", Arial, sans-serif;
+  font-weight: NaN;
+  text-align: left;
+  line-height: 5.2vw;
+  margin: 2.8vw 0 0 2.26vw;
+}
+
+.group_2 {
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 20px 20px 0px 0px;
+  position: absolute;
+  left: 0;
+  top: 59.2vw;
+  width: 100vw;
+  height: 21.34vw;
+  justify-content: flex-center;
+}
+
+.text_4 {
+  width: 21.07vw;
+  height: 6vw;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 4.26vw;
+  font-family: Helvetica, "Microsoft YaHei", Arial, sans-serif;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 6vw;
+  margin: 4vw 0 0 3.2vw;
+}
+
+.box_1 {
+  width: 34.67vw;
+  height: 4.67vw;
+  margin: 2.66vw 0 4vw 3.2vw;
+}
+
+.text-wrapper_3 {
+  background-color: rgba(255, 242, 232, 1);
+  border-radius: 10px;
+  height: 4.67vw;
+  border: 1px solid rgba(250, 84, 28, 1);
+  width: 16vw;
+}
+
+.text_5 {
+  width: 8vw;
+  height: 3.74vw;
+  overflow-wrap: break-word;
+  color: rgba(250, 84, 28, 1);
+  font-size: 2.66vw;
+  font-family: Helvetica, "Microsoft YaHei", Arial, sans-serif;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 3.74vw;
+  margin: 0.4vw 0 0 4vw;
+}
+
+.tag_1 {
+  background-color: rgba(234, 254, 250, 1);
+  border-radius: 10px;
+  height: 4.67vw;
+  border: 1px solid rgba(73, 185, 173, 1);
+  width: 16vw;
+}
+
+.text_6 {
+  width: 8vw;
+  height: 3.74vw;
+  overflow-wrap: break-word;
+  color: rgba(73, 185, 173, 1);
+  font-size: 2.66vw;
+  font-family: Helvetica, "Microsoft YaHei", Arial, sans-serif;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 3.74vw;
+  margin: 0.4vw 0 0 4vw;
+}

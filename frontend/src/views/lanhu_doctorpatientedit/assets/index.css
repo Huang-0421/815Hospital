@@ -1,0 +1,132 @@
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 750rem;
+  height: 1624rem;
+  overflow: hidden;
+}
+
+.nav-bar_1 {
+  background-color: rgba(255, 255, 255, 1);
+  width: 750rem;
+  height: 99rem;
+}
+
+.icon_1 {
+  width: 40rem;
+  height: 40rem;
+  margin: 24rem 0 0 24rem;
+}
+
+.text_1 {
+  width: 216rem;
+  height: 50rem;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 36rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 50rem;
+  margin: 30rem 267rem 0 203rem;
+}
+
+.text-wrapper_1 {
+  width: 750rem;
+  height: 91rem;
+}
+
+.text_2 {
+  width: 128rem;
+  height: 45rem;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 32rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 45rem;
+  margin: 25rem 0 0 24rem;
+}
+
+.section_1 {
+  background-color: rgba(245, 247, 251, 1);
+  border-radius: 10rem;
+  width: 702rem;
+  height: 692rem;
+  margin: -1rem 0 0 24rem;
+}
+
+.input_1 {
+  background-color: rgba(245, 247, 251, 1);
+  width: 627rem;
+  height: 80rem;
+  margin: 42rem 0 0 62rem;
+}
+
+.icon_2 {
+  width: 40rem;
+  height: 40rem;
+  margin: 20rem 0 0 30rem;
+}
+
+.text_3 {
+  width: 218rem;
+  height: 36rem;
+  overflow-wrap: break-word;
+  color: rgba(197, 200, 203, 1);
+  font-size: 26rem;
+  font-family: PingFangSC-Regular-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 36rem;
+  margin: 24rem 309rem 0 30rem;
+}
+
+.section_2 {
+  height: 98rem;
+  background: url(./img/MasterDDSSlicePNG258583e5a6bc260fe5c19a6485284e82.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  margin-top: 455rem;
+  width: 750rem;
+  position: relative;
+}
+
+.button_1 {
+  background-color: rgba(73, 185, 173, 1);
+  border-radius: 20rem;
+  height: 80rem;
+  width: 702rem;
+  margin: 9rem 0 0 24rem;
+}
+
+.text_4 {
+  width: 180rem;
+  height: 42rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 30rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 42rem;
+  margin: 19rem 0 0 261rem;
+}
+
+.group_1 {
+  position: absolute;
+  left: -1rem;
+  top: 0;
+  width: 752rem;
+  height: 1rem;
+}
+
+.section_3 {
+  width: 750rem;
+  height: 68rem;
+}

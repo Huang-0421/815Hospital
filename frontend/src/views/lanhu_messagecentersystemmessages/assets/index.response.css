@@ -1,0 +1,127 @@
+.page {
+  background-color: rgba(245, 247, 251, 1);
+  position: relative;
+  width: 100vw;
+  height: 216.54vw;
+  overflow: hidden;
+}
+
+.group_1 {
+  background-color: rgba(255, 255, 255, 1);
+  width: 100vw;
+  height: 23.47vw;
+  justify-content: flex-center;
+}
+
+.nav-bar_1 {
+  background-color: rgba(255, 255, 255, 1);
+  width: 100vw;
+  height: 11.74vw;
+  margin-top: 11.74vw;
+}
+
+.icon_1 {
+  width: 5.34vw;
+  height: 5.34vw;
+  margin: 3.2vw 0 0 3.2vw;
+}
+
+.text_1 {
+  width: 19.2vw;
+  height: 6.67vw;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 4.8vw;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 6.67vw;
+  margin: 2.53vw 40.4vw 0 31.86vw;
+}
+
+.box_1 {
+  width: 100vw;
+  height: 11.74vw;
+  margin-bottom: 11.74vw;
+}
+
+.group_2 {
+  width: 100vw;
+  height: 193.2vw;
+  margin-bottom: 0.14vw;
+}
+
+.text-wrapper_1 {
+  width: 14.8vw;
+  height: 4.54vw;
+  margin: 4vw 0 0 42.53vw;
+}
+
+.text_2 {
+  width: 14.8vw;
+  height: 4.54vw;
+  overflow-wrap: break-word;
+  color: rgba(197, 200, 203, 1);
+  font-size: 3.2vw;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 4.54vw;
+}
+
+.block_1 {
+  width: 77.6vw;
+  height: 30.67vw;
+  margin: 5.33vw 0 148.66vw 3.2vw;
+}
+
+.icon_2 {
+  width: 10.67vw;
+  height: 10.67vw;
+}
+
+.group_3 {
+  background-color: rgba(73, 185, 173, 1);
+  border-radius: 0px 20px 20px 20px;
+  height: 29.47vw;
+  margin-top: 1.2vw;
+  width: 65.2vw;
+}
+
+.text-wrapper_2 {
+  width: 59.2vw;
+  height: 21.34vw;
+  overflow-wrap: break-word;
+  font-size: 0;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  line-height: 5.2vw;
+  margin: 4.13vw 0 0 3.06vw;
+}
+
+.text_3 {
+  width: 59.2vw;
+  height: 21.34vw;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 3.73vw;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  line-height: 5.2vw;
+}
+
+.text_4 {
+  width: 59.2vw;
+  height: 21.34vw;
+  overflow-wrap: break-word;
+  color: rgba(34, 224, 224, 1);
+  font-size: 3.73vw;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  line-height: 5.2vw;
+}

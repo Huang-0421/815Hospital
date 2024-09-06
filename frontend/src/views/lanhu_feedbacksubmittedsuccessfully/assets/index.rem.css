@@ -1,0 +1,113 @@
+html {
+  font-size: 37.5px;
+}
+
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 20rem;
+  height: 43.307rem;
+  overflow: hidden;
+}
+
+.box_1 {
+  width: 20rem;
+  height: 43.307rem;
+  background: url(./img/MasterDDSSlicePNG152632e7cb0fd329eb75153576731c25.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+}
+
+.nav-bar_1 {
+  width: 20rem;
+  height: 2.347rem;
+  margin-top: 2.32rem;
+}
+
+.icon_1 {
+  width: 1.067rem;
+  height: 1.067rem;
+  margin: 0.667rem 0 0 0.64rem;
+}
+
+.text_1 {
+  width: 3.84rem;
+  height: 1.334rem;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 0.96rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 1.334rem;
+  margin: 0.534rem 8.08rem 0 6.374rem;
+}
+
+.image-wrapper_1 {
+  height: 9.334rem;
+  width: 9.334rem;
+  margin: 1.894rem 0 0 5.334rem;
+}
+
+.icon_2 {
+  width: 8rem;
+  height: 7.094rem;
+  margin: 1.12rem 0 0 0.667rem;
+}
+
+.text-group_1 {
+  width: 12.16rem;
+  height: 2.64rem;
+  margin: 1.067rem 0 0 3.92rem;
+}
+
+.text_2 {
+  width: 10.24rem;
+  height: 1.2rem;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 0.853rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 1.2rem;
+  margin-left: 0.96rem;
+}
+
+.text_3 {
+  width: 12.16rem;
+  height: 0.907rem;
+  overflow-wrap: break-word;
+  color: rgba(96, 105, 114, 1);
+  font-size: 0.64rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 0.907rem;
+  margin-top: 0.534rem;
+}
+
+.button_1 {
+  border-radius: 20px;
+  height: 2.134rem;
+  border: 1px solid rgba(73, 185, 173, 1);
+  width: 18.72rem;
+  margin: 4.774rem 0 16.8rem 0.64rem;
+}
+
+.text_4 {
+  width: 3.2rem;
+  height: 1.12rem;
+  overflow-wrap: break-word;
+  color: rgba(73, 185, 173, 1);
+  font-size: 0.8rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 1.12rem;
+  margin: 0.507rem 0 0 7.76rem;
+}

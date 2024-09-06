@@ -1,0 +1,432 @@
+html {
+  font-size: 37.5px;
+}
+
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 20rem;
+  height: 43.307rem;
+  overflow: hidden;
+}
+
+.box_1 {
+  background-image: linear-gradient(
+    180deg,
+    rgba(247, 255, 249, 1) 0,
+    rgba(255, 255, 255, 1) 100%
+  );
+  position: relative;
+  width: 20rem;
+  height: 12.8rem;
+}
+
+.text-wrapper_1 {
+  background-color: rgba(217, 249, 247, 1);
+  border-radius: 50%;
+  width: 8.907rem;
+  height: 12.8rem;
+}
+
+.text_1 {
+  text-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+  width: 2.667rem;
+  height: 1.867rem;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 1);
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 1.333rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.867rem;
+  margin: 3.6rem 0 0 1.094rem;
+}
+
+.text_2 {
+  width: 9.974rem;
+  height: 1.04rem;
+  overflow-wrap: break-word;
+  color: rgba(61, 61, 61, 1);
+  font-size: 1.546rem;
+  font-family: YouSheBiaoTiHei-Bold;
+  font-weight: 700;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.04rem;
+  margin: 1.28rem 0 5.014rem 0.534rem;
+}
+
+.box_2 {
+  background-color: rgba(242, 255, 238, 1);
+  border-radius: 50%;
+  height: 9.414rem;
+  width: 8.64rem;
+}
+
+.box_3 {
+  background-color: rgba(216, 216, 216, 0.01);
+  height: 5.76rem;
+  width: 6.614rem;
+  position: relative;
+  margin: 2.534rem 0 0 0.56rem;
+}
+
+.box_4 {
+  width: 1.6rem;
+  height: 1.6rem;
+  margin: 1.92rem 0 0 2.747rem;
+}
+
+.box_5 {
+  height: 4.56rem;
+  background: url(./img/MasterDDSSlicePNG769b547169a7c64b8080e7e0f3478ac4.png)
+    0rem -2.454rem no-repeat;
+  background-size: 5.68rem 5.68rem;
+  width: 3.494rem;
+  position: absolute;
+  left: 0;
+  top: 2.454rem;
+}
+
+.thumbnail_1 {
+  width: 0.347rem;
+  height: 0.374rem;
+  margin: 0.48rem 0 0 0.747rem;
+}
+
+.section_1 {
+  position: absolute;
+  left: 1.12rem;
+  top: 1.174rem;
+  width: 3.12rem;
+  height: 1.094rem;
+}
+
+.image_1 {
+  position: absolute;
+  left: 18.534rem;
+  top: 4.987rem;
+  width: 3.494rem;
+  height: 4.694rem;
+}
+
+.box_6 {
+  width: 20rem;
+  height: auto; /* 确保容器高度自动适应内容 */
+  margin-bottom: 0.027rem;
+  position: relative;
+  margin-top: 1rem;
+}
+
+.text_3 {
+  width: 1.707rem;
+  height: 1.2rem;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 0.853rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.2rem;
+  margin: 8.374rem 0 0 0.64rem;
+}
+
+.text-wrapper_2 {
+  border-radius: 20px;
+  height: 2.4rem;
+  border: 1px solid rgba(73, 185, 173, 1);
+  width: 18.72rem;
+  margin: 0.8rem 0 0 0.64rem;
+}
+
+.text_4 {
+  width: 3.467rem;
+  height: 0.96rem;
+  overflow-wrap: break-word;
+  color: rgba(197, 200, 203, 1);
+  font-size: 0.693rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.96rem;
+  margin: 0.72rem 0 0 0.8rem;
+}
+
+.text_5 {
+  width: 5.12rem;
+  height: 1.2rem;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 0.853rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.2rem;
+  margin: 0.24rem 0 0 0.64rem;
+}
+
+.text-wrapper_3 {
+  border-radius: 20px;
+  height: 2.4rem;
+  border: 1px solid rgba(73, 185, 173, 1);
+  width: 18.72rem;
+  margin: 0.8rem 0 0 0.64rem;
+}
+
+.text_6 {
+  width: 4.16rem;
+  height: 0.96rem;
+  overflow-wrap: break-word;
+  color: rgba(197, 200, 203, 1);
+  font-size: 0.693rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.96rem;
+  margin: 0.72rem 0 0 0.8rem;
+}
+
+.box_7 {
+  width: 10.667rem;
+  height: 0.907rem;
+  margin: 1.52rem 0 0 0.64rem;
+}
+
+.image-wrapper_1 {
+  background-color: rgba(73, 185, 173, 1);
+  border-radius: 5px;
+  height: 0.8rem;
+  margin-top: 0.027rem;
+  width: 0.8rem;
+}
+
+.label_1 {
+  width: 0.8rem;
+  height: 0.8rem;
+}
+
+.text_7 {
+  width: 4.48rem;
+  height: 0.907rem;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 0.64rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.907rem;
+  margin-left: 0.267rem;
+}
+
+.text_8 {
+  width: 5.12rem;
+  height: 0.907rem;
+  overflow-wrap: break-word;
+  color: rgba(73, 185, 173, 1);
+  font-size: 0.64rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.907rem;
+  margin-left: 0.7rem;
+}
+
+.text-wrapper_4 {
+  background-color: rgba(73, 185, 173, 1);
+  border-radius: 20px;
+  height: 2.4rem;
+  width: 18.72rem;
+  margin: 0.747rem 0 7.547rem 0.64rem;
+}
+
+.text_9 {
+  width: 3.2rem;
+  height: 1.12rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.8rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 1.12rem;
+  margin: 0.64rem 0 0 7.76rem;
+}
+
+.box_8 {
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 50px;
+  position: absolute;
+  left: 0;
+  top: 12.147rem;
+  width: 20rem;
+  height: 1.48rem;
+}
+
+.text_10 {
+  width: 2.56rem;
+  height: 1.2rem;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 0.853rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.2rem;
+  margin: 0.2rem 0rem 0 0.64rem;
+}
+
+.section_2 {
+  width: 18.72rem;
+  height: 2.4rem;
+  margin-left: -3rem;
+  /* margin: 0.8rem 0 0 0.64rem; */
+}
+
+.section_3 {
+  border-radius: 20px;
+  width: 13.44rem;
+  height: 2.4rem;
+  border: 1px solid rgba(73, 185, 173, 1);
+}
+
+.text-wrapper_5 {
+  background-color: rgba(73, 185, 173, 1);
+  height: 1.654rem;
+  margin-top: 0.48rem;
+  width: 4.72rem;
+  border-radius: 10px;
+}
+
+.text_11 {
+  width: 4.187rem;
+  height: 1.12rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.746rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 1.12rem;
+  margin: 0.267rem 0 0 0.267rem;
+}
+
+.text_12 {
+  width: 2.56rem;
+  height: 1.2rem;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 0.853rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.2rem;
+  margin: 1.2rem 0 0 0.64rem;
+}
+
+.text-wrapper_6 {
+  border-radius: 20px;
+  height: 2.4rem;
+  border: 1px solid rgba(73, 185, 173, 1);
+  width: 18.72rem;
+  margin: 0.8rem 0 0.88rem 0.64rem;
+}
+
+.text_13 {
+  width: 4.16rem;
+  height: 0.96rem;
+  overflow-wrap: break-word;
+  color: rgba(197, 200, 203, 1);
+  font-size: 0.693rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.96rem;
+  margin: 0.72rem 0 0 0.8rem;
+}
+.alert-popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.alert-content {
+  background-color: white;
+  padding: 1rem;
+  border-radius: 10px;
+  text-align: center;
+  width: 80%;
+  max-width: 300px;
+}
+
+.alert-content p {
+  margin: 0 0 1rem;
+  font-size: 1rem;
+}
+
+.alert-content button {
+  padding: 0.5rem 1rem;
+  background-color: #49b9ad;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.input-phone,
+.input-password,
+.input-code {
+  border: 1px solid rgba(73, 185, 173, 1);
+  border-radius: 20px;
+  width: 13.72rem;
+  height: 2.4rem;
+  font-size: 0.853rem;
+  font-family: Microsoft YaHei-Regular;
+  padding-left: 0.8rem;
+  margin: 0.8rem 0 0 0.64rem; /* 左侧统一间距 */
+}
+
+/* 调整验证码输入框宽度和位置 */
+.input-code {
+  width: 8.72rem;
+  margin-top: 0.64rem;
+  margin-left: 0.64rem; 
+}
+
+input::placeholder {
+  color: rgba(197, 200, 203, 1);
+}
+
+.text_3,
+.text_5,
+.text_10,
+.text_12 {
+  margin-left: 0.64rem; /* 确保标签左端对齐 */
+}
+
+/* 调整文本框和标签左侧统一对齐 */
+.section_2 {
+  width: 18.72rem;
+  height: 2.4rem;
+  margin-left: 0rem; /* 保持您原先的调整 */
+  display: flex; /* 添加 flex 布局 */
+  align-items: center; /* 让子元素在横轴中心对齐 */
+}

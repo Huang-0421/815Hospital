@@ -1,0 +1,253 @@
+html {
+	font-size: 37.5px;
+	font-size: 37.5px;
+}
+
+.page {
+
+	background-color: rgba(245, 247, 251, 1);
+	position: relative;
+	width: 20rem;
+	height: 40rem;
+	overflow: hidden;
+}
+.avatar-uploader-icon{
+	margin-left: 5rem;
+}
+.nav-bar_1 {
+
+	background-color: rgba(255, 255, 255, 1);
+	width: 20rem;
+	height: 2.347rem;
+  top:0;
+}
+
+.icon_1 {
+
+	width: 1.067rem;
+	height: 1.067rem;
+	margin: 0.64rem 0 0 0.64rem;
+}
+
+.text_1 {
+
+	width: 5.76rem;
+	height: 1.334rem;
+	overflow-wrap: break-word;
+	color: rgba(28, 32, 35, 1);
+	font-size: 0.96rem;
+	font-family: Microsoft YaHei-Regular;
+	font-weight: NaN;
+	text-align: center;
+	white-space: nowrap;
+	line-height: 1.334rem;
+	margin: 0.507rem 7.12rem 0 5.414rem;
+}
+
+.box_2 {
+
+	width: 20rem;
+	height: 2.347rem;
+	margin-bottom: 2.347rem;
+}
+
+.block_2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.section_2,
+.section_3,
+.section_4,
+.section_5,
+.section_6,
+.section_7,
+.section_8 {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  padding: 10px;
+
+  width: 100%;
+}
+
+.text-wrapper_22,
+.text-wrapper_23,
+.text-wrapper_24,
+.text-wrapper_25,
+.text-wrapper_26,
+.text-wrapper_27 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.text-wrapper_1 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start; /* 元素靠左对齐 */
+
+  background-color: #fff;
+}
+
+.text_7 {
+  font-size: 16px;
+  color: #333;
+  margin-right: 0.5rem; /* 文字和图片之间的距离 */
+}
+.text_8 {
+  font-size: 16px;
+  color: #333;
+  margin-left: 0.6rem;
+  margin-right: 0.5rem; /* 文字和图片之间的距离 */
+}
+.touxiang {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  margin-left: 1rem; /* 图片和文字的距离 */
+}
+
+
+
+.text_29 {
+  font-size: 14px;
+  color: #666;
+  flex-grow: 1;
+  text-align: right;
+  margin-right: 10px;
+}
+
+.text_4 {
+  font-size: 18px;
+  font-weight: bold;
+  background-color: #fff;
+}
+
+.text-input {
+  flex-grow: 1;
+  padding: 5px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.number-input {
+  width: 100%;
+  background-color: #f5f5f5;
+}
+
+.icon_3 {
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+
+
+.text-wrapper_22, .text-wrapper_23, .text-wrapper_24, .text-wrapper_25 {
+  margin-bottom: 10px;
+}
+
+.text-wrapper_26, .text-wrapper_27 {
+  cursor: pointer;
+}
+
+.box_130 {
+
+	height: 2.614rem;
+	background: url(./img/MasterDDSSlicePNG258583e5a6bc260fe5c19a6485284e82.png) 100% no-repeat;
+	background-size: 100% 100%;
+	width: 20rem;
+	position:fixed;
+  bottom:0;
+}
+
+.button_10 {
+
+	background-color: rgba(73, 185, 173, 1);
+	border-radius: 20px;
+	height: 2.134rem;
+	width: 18.72rem;
+	margin: 0.24rem 0 0 0.64rem;
+}
+
+.text_28 {
+
+	width: 1.6rem;
+	height: 1.12rem;
+	overflow-wrap: break-word;
+	color: rgba(255, 255, 255, 1);
+	font-size: 0.8rem;
+	font-family: Microsoft YaHei-Regular;
+	font-weight: NaN;
+	text-align: center;
+	white-space: nowrap;
+	line-height: 1.12rem;
+	margin: 0.507rem 0 0 8.56rem;
+}
+
+.block_10 {
+
+	position: absolute;
+	left: -0.026rem;
+	top: 0;
+	width: 20.054rem;
+	height: 0.027rem;
+}
+
+
+.box_140 {
+
+	width: 20rem;
+	height: 1.814rem;
+}
+.text-input[data-v-c318c992][data-v-c318c992]{
+	width:18rem;
+}
+.text-input {
+	width: 80%;
+	border: 1px solid rgba(28, 32, 35, 0.2);
+	border-radius: 4px;
+	padding: 0.2rem;
+	font-size: 0.746rem;
+	color: rgba(28, 32, 35, 1);
+	border: none;
+	resize: none; /* 禁止用户拖动调整大小 */
+}
+
+
+
+.text-input[data-v-c318c992]{
+	width: 9rem;
+}
+.fixed-edit-panel {
+  position: fixed;
+  top: 25rem;
+  left: 10rem;
+  transform: translateX(-50%);
+  width: auto; /* 设置为 95% 的宽度，接近全屏 */
+  padding: 0.1rem;
+  background-color: #f5f5f5;
+  border: 0.1rem solid rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  z-index: 1000; /* 确保它位于其他元素之上 */
+}
+
+.follow-input {
+  width: 100%; /* 宽度铺满父容器 */
+  height: 8rem; /* 增加高度，让输入框更大 */
+  border: 1px solid rgba(28, 32, 35, 0.2);
+  border-radius: 4px;
+  padding: 0.4rem; /* 增加一些内边距，使内容更易读 */
+  font-size: 0.746rem; /* 增加字体大小 */
+  color: rgba(28, 32, 35, 1);
+  resize: none; /* 禁止用户拖动调整大小 */
+  box-sizing: border-box; /* 确保 padding 和 border 包含在 width 内 */
+}

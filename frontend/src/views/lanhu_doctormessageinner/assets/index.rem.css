@@ -1,0 +1,90 @@
+.page {
+  background-color: rgba(245, 247, 251, 1);
+  position: relative;
+  overflow: hidden;
+}
+
+.nav-bar_1 {
+  background-color: rgba(255, 255, 255, 1);
+  height: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.icon_1 {
+  width: 1.067rem;
+  height: 1.067rem;
+  margin: 0.64rem 0 0 0.64rem;
+}
+
+.text_1 {
+  width: 0.294rem;
+  height: 1.334rem;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 0.96rem;
+  font-family: Microsoft YaHei-Regular;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 1.334rem;
+  margin: 0.507rem 9.84rem 0 8.16rem;
+}
+
+.single-avatar_2 {
+  width: 2.134rem;
+  height: 2.134rem;
+}
+
+.text_4 {
+  color: rgba(28, 32, 35, 1);
+  font-size: 0.746rem;
+  font-family: Microsoft YaHei-Regular;
+  text-align: left;
+  white-space: normal;
+  line-height: 1.2rem; /* 增加行高，提升可读性 */
+}
+
+.message-item {
+  background-color: #fff;
+  padding: 2vw;
+  margin-bottom: 1.5vw;
+  border-radius: 2vw;
+  box-shadow: 0 2vw 4vw rgba(0, 0, 0, 0.1);
+}
+
+.sent-message {
+  background-color: #d4edda; /* 绿色背景，表示发送的消息 */
+}
+
+.message-list {
+  margin-bottom: 20rem;
+}
+
+.message-input {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  padding: 3vw;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.message-input input {
+  flex: 1;
+  padding: 3vw;
+  border: 2px solid #ccc;
+  border-radius: 10vw;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.send-button {
+  background-color: rgb(73, 185, 173);
+  border: none;
+  padding: 1vw 5vw;
+  border-radius: 10vw;
+  margin-left: 3vw;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 4vw;
+}

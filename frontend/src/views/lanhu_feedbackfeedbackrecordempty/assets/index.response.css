@@ -1,0 +1,80 @@
+.page {
+  background-color: rgba(245, 247, 251, 1);
+  position: relative;
+  width: 100vw;
+  height: 216.54vw;
+  overflow: hidden;
+}
+
+.group_1 {
+  background-color: rgba(255, 255, 255, 1);
+  width: 100vw;
+  height: 23.47vw;
+  justify-content: flex-center;
+}
+
+.nav-bar_1 {
+  background-color: rgba(255, 255, 255, 1);
+  width: 100vw;
+  height: 11.74vw;
+  margin-top: 11.74vw;
+}
+
+.icon_1 {
+  width: 5.34vw;
+  height: 5.34vw;
+  margin: 3.2vw 0 0 3.2vw;
+}
+
+.text_1 {
+  width: 19.2vw;
+  height: 6.67vw;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 4.8vw;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 6.67vw;
+  margin: 2.53vw 40.4vw 0 31.86vw;
+}
+
+.box_1 {
+  width: 100vw;
+  height: 11.74vw;
+  margin-bottom: 11.74vw;
+}
+
+.group_2 {
+  width: 100vw;
+  height: 193.2vw;
+  margin-bottom: 0.14vw;
+}
+
+.image-wrapper_1 {
+  background-color: rgba(216, 216, 216, 1);
+  height: 33.34vw;
+  width: 33.34vw;
+  margin: 34vw 0 0 33.33vw;
+}
+
+.image_1 {
+  width: 30.67vw;
+  height: 26.27vw;
+  margin: 3.33vw 0 0 1.33vw;
+}
+
+.text_2 {
+  width: 22.4vw;
+  height: 4.54vw;
+  overflow-wrap: break-word;
+  color: rgba(96, 105, 114, 1);
+  font-size: 3.2vw;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 4.54vw;
+  margin: 1.33vw 0 120vw 38.8vw;
+}

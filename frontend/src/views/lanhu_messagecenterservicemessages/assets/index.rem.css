@@ -1,0 +1,152 @@
+html {
+  font-size: 37.5px;
+}
+
+.page {
+  background-color: rgba(245, 247, 251, 1);
+  position: relative;
+  width: 20rem;
+  height: 43.307rem;
+  overflow: hidden;
+}
+
+.box_1 {
+  background-color: rgba(255, 255, 255, 1);
+  height: 4.694rem;
+  width: 20rem;
+}
+
+.section_1 {
+  background-color: rgba(255, 255, 255, 1);
+  width: 20rem;
+  height: 2.347rem;
+  margin-top: 2.347rem;
+}
+
+.label_1 {
+  width: 1.067rem;
+  height: 1.067rem;
+  margin: 0.64rem 0 0 0.64rem;
+}
+
+.text_1 {
+  width: 3.84rem;
+  height: 1.334rem;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 0.96rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 1.334rem;
+  margin: 0.507rem 8.08rem 0 6.374rem;
+}
+
+.box_2 {
+  width: 20rem;
+  height: 38.64rem;
+  margin-bottom: 0.027rem;
+}
+
+.text-wrapper_1 {
+  width: 2.96rem;
+  height: 0.907rem;
+  margin: 0.8rem 0 0 8.507rem;
+}
+
+.text_2 {
+  width: 2.96rem;
+  height: 0.907rem;
+  overflow-wrap: break-word;
+  color: rgba(197, 200, 203, 1);
+  font-size: 0.64rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.907rem;
+}
+
+.group_1 {
+  width: 15.52rem;
+  height: 6.134rem;
+  margin: 1.067rem 0 0 0.64rem;
+}
+
+.image_1 {
+  width: 2.134rem;
+  height: 2.134rem;
+}
+
+.text-wrapper_2 {
+  background-color: rgba(73, 185, 173, 1);
+  border-radius: 0px 20px 20px 20px;
+  height: 5.894rem;
+  margin-top: 0.24rem;
+  width: 13.04rem;
+}
+
+.text_3 {
+  width: 11.84rem;
+  height: 4.267rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.746rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  line-height: 1.04rem;
+  margin: 0.827rem 0 0 0.614rem;
+}
+
+.text-wrapper_3 {
+  width: 2.96rem;
+  height: 0.907rem;
+  margin: 0.8rem 0 0 8.507rem;
+}
+
+.text_4 {
+  width: 2.96rem;
+  height: 0.907rem;
+  overflow-wrap: break-word;
+  color: rgba(197, 200, 203, 1);
+  font-size: 0.64rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.907rem;
+}
+
+.group_2 {
+  width: 15.52rem;
+  height: 6.134rem;
+  margin: 1.067rem 0 20.827rem 0.64rem;
+}
+
+.image_2 {
+  width: 2.134rem;
+  height: 2.134rem;
+}
+
+.text-wrapper_4 {
+  background-color: rgba(73, 185, 173, 1);
+  border-radius: 0px 20px 20px 20px;
+  height: 5.894rem;
+  margin-top: 0.24rem;
+  width: 13.04rem;
+}
+
+.text_5 {
+  width: 11.84rem;
+  height: 4.267rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.746rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  line-height: 1.04rem;
+  margin: 0.827rem 0 0 0.614rem;
+}

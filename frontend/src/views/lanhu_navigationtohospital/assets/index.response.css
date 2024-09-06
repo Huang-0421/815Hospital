@@ -1,0 +1,88 @@
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 100vw;
+  height: 216.54vw;
+  overflow: hidden;
+}
+
+.group_1 {
+  background-color: rgba(255, 255, 255, 1);
+  height: 216.54vw;
+  width: 100vw;
+}
+
+.box_1 {
+  height: 216.54vw;
+  background: url(./img/MasterDDSSlicePNGabcfd9a842d1d20b612ca775475b1005.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  width: 100vw;
+}
+
+.section_1 {
+  background-color: rgba(255, 255, 255, 0.364955);
+  height: 216.54vw;
+  width: 100vw;
+}
+
+.box_2 {
+  background-color: rgba(255, 255, 255, 0.364955);
+  width: 100vw;
+  height: 216.54vw;
+}
+
+.block_1 {
+  width: 100vw;
+  height: 46.4vw;
+}
+
+.text-wrapper_1 {
+  background-color: rgba(73, 185, 173, 0.2);
+  border-radius: 0px 25px 0px 25px;
+  height: 6.67vw;
+  width: 13.34vw;
+  margin: 8.26vw 0 0 0.13vw;
+}
+
+.text_1 {
+  width: 6.4vw;
+  height: 4.54vw;
+  overflow-wrap: break-word;
+  color: rgba(0, 13, 12, 1);
+  font-size: 3.2vw;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 4.54vw;
+  margin: 1.2vw 0 0 3.46vw;
+}
+
+.text-wrapper_2 {
+  background-color: rgba(233, 248, 248, 1);
+  height: 22.27vw;
+  border: 1px solid rgba(39, 235, 235, 1);
+  width: 80.54vw;
+  margin: 2.8vw 0 6.4vw 10vw;
+}
+
+.text_2 {
+  width: 25.6vw;
+  height: 8.27vw;
+  overflow-wrap: break-word;
+  color: rgba(0, 13, 12, 1);
+  font-size: 4.8vw;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 4.54vw;
+  margin: 6.93vw 0 0 8.53vw;
+}
+
+.image_1 {
+  width: 93.6vw;
+  height: 138.8vw;
+  margin: 46.26vw 3.2vw 0 -96.8vw;
+}

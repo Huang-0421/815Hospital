@@ -1,0 +1,121 @@
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 750px;
+  height: 1624px;
+  overflow: hidden;
+}
+
+.box_1 {
+  background-color: rgba(255, 255, 255, 1);
+  width: 750px;
+  height: 88px;
+  margin-top: 44px;
+}
+
+.label_1 {
+  width: 40px;
+  height: 40px;
+  margin: 24px 0 0 24px;
+}
+
+.text_1 {
+  width: 144px;
+  height: 50px;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 36px;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 50px;
+  margin: 19px 303px 0 239px;
+}
+
+.box_2 {
+  width: 750px;
+  height: 520px;
+}
+
+.image_1 {
+  width: 702px;
+  height: 361px;
+  margin: 12px 0 0 22px;
+}
+
+.text_2 {
+  width: 128px;
+  height: 45px;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 32px;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 45px;
+  margin: 81px 0 21px 23px;
+}
+
+.text-wrapper_1 {
+  background-color: rgba(245, 247, 251, 1);
+  border-radius: 10px;
+  height: 616px;
+  width: 702px;
+  margin: -1px 0 0 24px;
+}
+
+.text_3 {
+  width: 668px;
+  height: 280px;
+  overflow-wrap: break-word;
+  color: rgba(64, 69, 75, 1);
+  font-size: 28px;
+  font-family: Helvetica, "Microsoft YaHei", Arial, sans-serif;
+  font-weight: NaN;
+  text-align: left;
+  line-height: 39px;
+  margin: 30px 0 0 17px;
+}
+
+.box_3 {
+  width: 750px;
+  height: 358px;
+  margin-bottom: 1px;
+}
+
+.text_4 {
+  width: 158px;
+  height: 40px;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 32px;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 45px;
+  margin: 17px 0 0 22px;
+}
+
+.box_4 {
+  background-color: rgba(245, 247, 251, 1);
+  border-radius: 10px;
+  width: 702px;
+  height: 195px;
+  margin: 17px 0 0 22px;
+}
+
+.paragraph_1 {
+  width: 668px;
+  height: 244px;
+  overflow-wrap: break-word;
+  color: rgba(64, 69, 75, 1);
+  font-size: 28px;
+  font-family: Helvetica, "Microsoft YaHei", Arial, sans-serif;
+  font-weight: NaN;
+  text-align: left;
+  line-height: 39px;
+  margin: -169px 0 14px 39px;
+}

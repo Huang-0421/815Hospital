@@ -1,0 +1,84 @@
+html {
+  font-size: 37.5px;
+}
+
+.page {
+  background-color: rgba(245, 247, 251, 1);
+  position: relative;
+  width: 20rem;
+  height: 43.307rem;
+  overflow: hidden;
+}
+
+.group_1 {
+  background-color: rgba(255, 255, 255, 1);
+  width: 20rem;
+  height: 4.694rem;
+  justify-content: flex-center;
+}
+
+.nav-bar_1 {
+  background-color: rgba(255, 255, 255, 1);
+  width: 20rem;
+  height: 2.347rem;
+  margin-top: 2.347rem;
+}
+
+.icon_1 {
+  width: 1.067rem;
+  height: 1.067rem;
+  margin: 0.64rem 0 0 0.64rem;
+}
+
+.text_1 {
+  width: 3.84rem;
+  height: 1.334rem;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 0.96rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 1.334rem;
+  margin: 0.507rem 8.08rem 0 6.374rem;
+}
+
+.box_1 {
+  width: 20rem;
+  height: 2.347rem;
+  margin-bottom: 2.347rem;
+}
+
+.group_2 {
+  width: 20rem;
+  height: 38.64rem;
+  margin-bottom: 0.027rem;
+}
+
+.image-wrapper_1 {
+  background-color: rgba(216, 216, 216, 1);
+  height: 6.667rem;
+  width: 6.667rem;
+  margin: 6.8rem 0 0 6.667rem;
+}
+
+.image_1 {
+  width: 6.134rem;
+  height: 5.254rem;
+  margin: 0.667rem 0 0 0.267rem;
+}
+
+.text_2 {
+  width: 4.48rem;
+  height: 0.907rem;
+  overflow-wrap: break-word;
+  color: rgba(96, 105, 114, 1);
+  font-size: 0.64rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.907rem;
+  margin: 0.267rem 0 24rem 7.76rem;
+}

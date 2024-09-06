@@ -1,0 +1,197 @@
+html {
+  font-size: 37.5px;
+}
+
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 20rem;
+  height: 43.307rem;
+  overflow: hidden;
+}
+
+.box_1 {
+  width: 20.054rem;
+  height: 43.307rem;
+  margin-left: -0.026rem;
+}
+
+.group_1 {
+  height: 4.427rem;
+  background: url(./img/MasterDDSSlicePNG4701cb5bc66e10b2e1db22dcbbeb1369.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  margin-top: 38.88rem;
+  width: 20.054rem;
+}
+
+.tab-bar_1 {
+  width: 20rem;
+  height: 2.614rem;
+  background: url(./img/MasterDDSSlicePNG258583e5a6bc260fe5c19a6485284e82.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  margin-left: 0.027rem;
+}
+
+.tab-bar-item_1 {
+  width: 1.067rem;
+  height: 1.947rem;
+  margin: 0.347rem 0 0 2.454rem;
+}
+
+.icon_1 {
+  width: 1.067rem;
+  height: 1.067rem;
+}
+
+.text_1 {
+  width: 1.067rem;
+  height: 0.747rem;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 0.533rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 0.747rem;
+  margin-top: 0.134rem;
+}
+
+.tab-bar-item_2 {
+  width: 1.067rem;
+  height: 1.947rem;
+  margin: 0.347rem 0 0 3.6rem;
+}
+
+.icon_2 {
+  width: 1.067rem;
+  height: 1.067rem;
+}
+
+.text_2 {
+  width: 1.067rem;
+  height: 0.747rem;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 0.533rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 0.747rem;
+  margin-top: 0.134rem;
+}
+
+.tab-bar-item_3 {
+  width: 1.067rem;
+  height: 1.947rem;
+  margin: 0.347rem 0 0 3.627rem;
+}
+
+.icon_3 {
+  width: 1.067rem;
+  height: 1.067rem;
+}
+
+.text_3 {
+  width: 1.067rem;
+  height: 0.747rem;
+  overflow-wrap: break-word;
+  color: rgba(73, 185, 173, 1);
+  font-size: 0.533rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 0.747rem;
+  margin-top: 0.134rem;
+}
+
+.tab-bar-item_4 {
+  width: 1.067rem;
+  height: 1.947rem;
+  margin: 0.347rem 2.454rem 0 3.6rem;
+}
+
+.icon_4 {
+  width: 1.067rem;
+  height: 1.067rem;
+}
+
+.text_4 {
+  width: 1.067rem;
+  height: 0.747rem;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 0.533rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 0.747rem;
+  margin-top: 0.134rem;
+}
+
+.group_2 {
+  width: 20rem;
+  height: 38.907rem;
+  margin: 0 0.027rem 0 -20.027rem;
+}
+
+.text-wrapper_1 {
+  width: 1.92rem;
+  height: 1.334rem;
+  margin: 2.854rem 0 0 0.64rem;
+}
+
+.text_5 {
+  width: 1.92rem;
+  height: 1.334rem;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 0.96rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.334rem;
+}
+
+.block_1 {
+  width: 6.667rem;
+  height: 6.667rem;
+  margin: 7.307rem 0 0 6.774rem;
+}
+
+.image-wrapper_1 {
+  background-color: rgba(216, 216, 216, 1);
+  height: 6.667rem;
+  width: 6.667rem;
+}
+
+.image_1 {
+  width: 6.4rem;
+  height: 4.48rem;
+  margin: 1.094rem 0 0 0.134rem;
+}
+
+.text-wrapper_2 {
+  width: 5.76rem;
+  height: 0.907rem;
+  margin: 0.267rem 0 19.574rem 7.44rem;
+}
+
+.text_6 {
+  width: 5.76rem;
+  height: 0.907rem;
+  overflow-wrap: break-word;
+  color: rgba(96, 105, 114, 1);
+  font-size: 0.64rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.907rem;
+}

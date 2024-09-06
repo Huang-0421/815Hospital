@@ -1,0 +1,88 @@
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 750px;
+  height: 1624px;
+  overflow: hidden;
+}
+
+.group_1 {
+  background-color: rgba(255, 255, 255, 1);
+  height: 1624px;
+  width: 750px;
+}
+
+.box_1 {
+  height: 1624px;
+  background: url(./img/MasterDDSSlicePNGabcfd9a842d1d20b612ca775475b1005.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  width: 750px;
+}
+
+.section_1 {
+  background-color: rgba(255, 255, 255, 0.364955);
+  height: 1624px;
+  width: 750px;
+}
+
+.box_2 {
+  background-color: rgba(255, 255, 255, 0.364955);
+  width: 750px;
+  height: 1624px;
+}
+
+.block_1 {
+  width: 750px;
+  height: 348px;
+}
+
+.text-wrapper_1 {
+  background-color: rgba(73, 185, 173, 0.2);
+  border-radius: 0px 25px 0px 25px;
+  height: 50px;
+  width: 100px;
+  margin: 62px 0 0 1px;
+}
+
+.text_1 {
+  width: 48px;
+  height: 34px;
+  overflow-wrap: break-word;
+  color: rgba(0, 13, 12, 1);
+  font-size: 24px;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 34px;
+  margin: 9px 0 0 26px;
+}
+
+.text-wrapper_2 {
+  background-color: rgba(233, 248, 248, 1);
+  height: 167px;
+  border: 1px solid rgba(39, 235, 235, 1);
+  width: 604px;
+  margin: 21px 0 48px 75px;
+}
+
+.text_2 {
+  width: 192px;
+  height: 62px;
+  overflow-wrap: break-word;
+  color: rgba(0, 13, 12, 1);
+  font-size: 36px;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 34px;
+  margin: 52px 0 0 64px;
+}
+
+.image_1 {
+  width: 702px;
+  height: 1041px;
+  margin: 347px 24px 0 -726px;
+}

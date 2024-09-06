@@ -1,0 +1,295 @@
+html {
+  font-size: 37.5px;
+}
+
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 100%;
+  height: 100%; /* Adjusted height to be automatic based on content */
+
+}
+
+.nav-bar_1 {
+  background-color: rgba(255, 255, 255, 1);
+  width: 20rem;
+  height: 2.64rem;
+}
+
+.icon_1 {
+  width: 1.067rem;
+  height: 1.067rem;
+  margin: 0.64rem 0 0 0.64rem;
+}
+
+.text_1 {
+  width: 5.76rem;
+  height: 1.334rem;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 0.96rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 1.334rem;
+  margin: 0.8rem 7.12rem 0 5.414rem;
+}
+
+.text-wrapper_1 {
+  width: 20rem;
+  height: 2.427rem;
+}
+
+.text_2 {
+  width: 3.414rem;
+  height: 1.2rem;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 0.853rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.2rem;
+  margin: 0.667rem 0 0 0.64rem;
+}
+
+.section_1 {
+  background-color: rgba(245, 247, 251, 1);
+  border-radius: 10px;
+  width: 18.72rem;
+  height: 10.454rem;
+  margin: -0.027rem 0 0 0.64rem;
+}
+
+
+
+
+.search-icon {
+  position: absolute;
+  top: 50%;
+  left: 10px;
+  transform: translateY(-50%);
+  width: 1rem;
+  height: 1rem;
+  pointer-events: none;
+}
+
+.styled-input {
+  width: 20rem; /* 缩小输入框的宽度 */
+  height:3rem;
+  padding-left: 2.4rem; /* 留出左侧图标的空间 */
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 0.693rem;
+  color: #333;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.styled-input:focus {
+  border-color: #007bff;
+  box-shadow: 0 4px 8px rgba(0, 123, 255, 0.2);
+  outline: none;
+}
+
+
+.icon_2 {
+  width: 1.067rem;
+  height: 1.067rem;
+  margin: 0.534rem 0 0 0.8rem;
+}
+
+.text_3 {
+  width: 5.814rem;
+  height: 0.96rem;
+  overflow-wrap: break-word;
+  color: rgba(197, 200, 203, 1);
+  font-size: 0.693rem;
+  font-family: PingFangSC-Regular-Regular;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.96rem;
+  margin: 0.64rem 8.24rem 0 0.8rem;
+}
+
+.section_2 {
+  height: 2.614rem;
+  background: url(./img/MasterDDSSlicePNG258583e5a6bc260fe5c19a6485284e82.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  margin-top: 12.134rem;
+  width: 20rem;
+
+  bottom:0;
+  z-index: 100;
+}
+
+.button_1 {
+  background-color: rgba(73, 185, 173, 1);
+  border-radius: 20px;
+  height: 2.134rem;
+  width: 18.72rem;
+  margin: 0.24rem 0 0 0.64rem;
+}
+
+.text_4 {
+  width: 4.8rem;
+  height: 1.12rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.8rem;
+  font-family: Microsoft YaHei-Regular;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 1.12rem;
+  margin: 0.507rem 0 0 6.96rem;
+}
+
+.group_1 {
+  position: absolute;
+  left: -0.026rem;
+  top: 0;
+  width: 20.054rem;
+  height: 0.027rem;
+}
+
+.section_3 {
+  width: 20rem;
+  height: 1.814rem;
+}
+
+
+
+
+.case-input {
+  width: 100%;
+  height: 100%;
+  padding: 0.4rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 0.693rem;
+  color: #333;
+  background-color: rgba(245, 247, 251, 1);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  resize: none; /* Disable manual resizing */
+  overflow-y: auto; /* Enable scroll for longer text */
+}
+
+.case-input::placeholder {
+  color: rgba(197, 200, 203, 1);
+  font-family: Microsoft YaHei-Regular;
+  font-size: 0.693rem;
+}
+
+.case-input:focus {
+  border-color: #007bff;
+  box-shadow: 0 4px 8px rgba(0, 123, 255, 0.2);
+  outline: none;
+}
+
+.search-wrapper {
+  position: relative;
+}
+
+.dropdown-results {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 20rem;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  z-index: 10;
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+.result-item {
+  display: flex;
+  padding: 10px;
+  cursor: pointer;
+  align-items: center;
+}
+
+.result-item:hover {
+  background-color: #f0f0f0;
+}
+
+.drug-image {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  margin-right: 10px;
+}
+
+.result-details {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.drug-name {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.drug-info {
+  display: flex;
+  justify-content: space-between;
+}
+
+.drug-price {
+  color: #ff4d4f;
+}
+
+.no-results {
+  padding: 10px;
+  color: #999;
+}
+
+.quantity-input {
+  width: 60px;
+  margin-left: 10px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.alert-popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.alert-content {
+  background-color: white;
+  padding: 1rem;
+  border-radius: 10px;
+  text-align: center;
+  width: 80%;
+  max-width: 300px;
+}
+
+.alert-content p {
+  margin: 0 0 1rem;
+  font-size: 1rem;
+}
+
+.alert-content button {
+  padding: 0.5rem 1rem;
+  background-color: #49b9ad;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}

@@ -1,0 +1,115 @@
+html {
+  font-size: 37.5px;
+}
+
+.page {
+  background-color: rgba(245, 247, 251, 0.5);
+  background-image: url('img/bg.png');
+  background-size: 100%;
+  position: relative;
+  width: 100%;
+  height: 43.307rem;
+  overflow: hidden;
+}
+
+.nav-bar_1 {
+  background-color: rgba(255, 255, 255, 1);
+  width: 100%;
+  height: 2.214rem;
+  margin-top: 0rem;
+}
+
+.icon_1 {
+  width: 1.067rem;
+  height: 1.067rem;
+  margin: 0 0 0 0.64rem;
+}
+
+.text_1 {
+  width: 3.84rem;
+  height: 1.334rem;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 0.96rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 1.334rem;
+  margin: 0.507rem 8.08rem 0 6.374rem;
+}
+
+
+.page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.nav-bar_1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.content {
+  display: flex;
+  float: left;
+  flex-direction: row;
+  height: 5rem;
+}
+
+
+.custom-cascader {
+  width: 200px;
+  height: 100px; 
+  
+}
+
+.el-cascader {
+  width: 100%; /* 确保宽度占满父容器 */
+  height: 20%;
+}
+
+.group_7 {
+  height: 2.614rem;
+  background-size: 100% 100%;
+  width: 8rem;
+  position: relative;
+  margin-top: 22.32rem;
+}
+
+.text-wrapper_6 {
+  background-color: rgba(73, 185, 173, 1);
+  border-radius: 20px;
+  height: 2.134rem;
+  width: 10.72rem;
+  margin: 10rem 0 0 -1rem;
+  position: fixed;
+  bottom: 0;
+}
+
+.text_13 {
+  width: 3.2rem;
+  height: 1.12rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.8rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 1.12rem;
+  margin: 0.507rem 0 0 3.9rem;
+}
+
+.box_4 {
+  position: absolute;
+  left: -0.026rem;
+  top: 0;
+  width: 20.054rem;
+  height: 0.027rem;
+}
+.el-cascader-panel {
+	width: 10%;
+}

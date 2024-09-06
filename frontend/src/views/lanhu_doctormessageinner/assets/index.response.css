@@ -1,0 +1,128 @@
+.page {
+  background-color: rgba(245, 247, 251, 1);
+  position: relative;
+  width: 100vw;
+  height: 216.54vw;
+  overflow: hidden;
+}
+
+.nav-bar_1 {
+  background-color: rgba(255, 255, 255, 1);
+  width: 100vw;
+  height: 11.74vw;
+}
+
+.icon_1 {
+  width: 5.34vw;
+  height: 5.34vw;
+  margin: 3.2vw 0 0 3.2vw;
+}
+
+.text_1 {
+  width: 1.47vw;
+  height: 6.67vw;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 4.8vw;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 6.67vw;
+  margin: 2.53vw 49.2vw 0 40.8vw;
+}
+
+.section_1 {
+  width: 100vw;
+  height: 182.8vw;
+}
+
+.text-wrapper_1 {
+  width: 14.8vw;
+  height: 4.54vw;
+  margin-left: 42.54vw;
+}
+
+.text_2 {
+  width: 14.8vw;
+  height: 4.54vw;
+  overflow-wrap: break-word;
+  color: rgba(197, 200, 203, 1);
+  font-size: 3.2vw;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 4.54vw;
+}
+
+.group_1 {
+  width: 81.2vw;
+  height: 32.14vw;
+  margin: 3.86vw 0 0 15.6vw;
+}
+
+.text-wrapper_2 {
+  background-color: rgba(73, 185, 173, 1);
+  border-radius: 20px 0px 20px 20px;
+  height: 29.47vw;
+  margin-top: 2.67vw;
+  width: 65.2vw;
+}
+
+.text_3 {
+  width: 59.2vw;
+  height: 21.34vw;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 3.73vw;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  line-height: 5.2vw;
+  margin: 4.13vw 0 0 3.06vw;
+}
+
+.single-avatar_1 {
+  width: 10.67vw;
+  height: 10.67vw;
+}
+
+.group_2 {
+  width: 30.67vw;
+  height: 14.67vw;
+  margin: 8vw 0 119.6vw 3.2vw;
+}
+
+.single-avatar_2 {
+  width: 10.67vw;
+  height: 10.67vw;
+}
+
+.text-wrapper_3 {
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 0px 20px 20px 20px;
+  height: 12vw;
+  margin-top: 2.67vw;
+  width: 16vw;
+}
+
+.text_4 {
+  width: 11.2vw;
+  height: 5.2vw;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 3.73vw;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 5.2vw;
+  margin: 3.46vw 0 0 4vw;
+}
+
+.image_1 {
+  width: 100.27vw;
+  height: 22.14vw;
+  margin: -0.13vw 0 0 -0.13vw;
+}

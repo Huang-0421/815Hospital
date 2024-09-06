@@ -1,0 +1,142 @@
+html {
+  font-size: 37.5px;
+}
+
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 20rem;
+  height: 43.307rem;
+  overflow: hidden;
+}
+
+.box_1 {
+  background-color: rgba(255, 255, 255, 1);
+    width: 100%;
+    height: 2.214rem;
+    margin-top: 0rem;
+}
+
+.label_1 {
+  width: 0.8rem; /* 调整后的宽度 */
+  height: 0.8rem; /* 调整后的高度 */
+  margin: 0.4rem 0 0 0.4rem; /* 调整位置以确保按钮居中并不超出边框 */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.label_1 img {
+  width: 1.067rem;
+    height: 1.067rem;
+    margin: 0.64rem 0 0 0.64rem;
+}
+
+.text_1 {
+  width: 3.84rem;
+  height: 1.334rem;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 0.96rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 1.334rem;
+  margin: 0.507rem 8.08rem 0 6.374rem;
+}
+
+.box_2 {
+  width: 20rem;
+  height: 13.867rem;
+}
+
+.image_1 {
+  width: 18.72rem;
+  height: 9.627rem;
+  margin: 0.32rem 0 0 0.587rem;
+}
+
+.text_2 {
+  width: 3.414rem;
+  height: 1.2rem;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 0.853rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.2rem;
+  margin: 2.16rem 0 0.56rem 0.614rem;
+}
+
+.text-wrapper_1 {
+  background-color: rgba(245, 247, 251, 1);
+  border-radius: 10px;
+  height: 16.427rem;
+  width: 18.72rem;
+  margin: -0.027rem 0 0 0.64rem;
+  overflow-y: auto; /* 使内容在超出时纵向滚动 */
+  padding: 0.5rem; /* 增加内边距，提升可读性 */
+}
+
+.text_3 {
+
+  width: 100%;
+  height: auto; /* 高度由内容决定 */
+  overflow-wrap: break-word;
+  color: rgba(64, 69, 75, 1);
+  font-size: 0.746rem;
+  font-family: Helvetica, "Microsoft YaHei", Arial, sans-serif;
+  font-weight: NaN;
+  text-align: left;
+  line-height: 1.04rem;
+
+}
+
+
+.box_3 {
+  width: 20rem;
+  height: 9.547rem;
+  margin-bottom: 0.027rem;
+}
+
+.text_4 {
+  width: 4.214rem;
+  height: 1.067rem;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 0.853rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.2rem;
+  margin: 0.454rem 0 0 0.587rem;
+}
+
+.box_4 {
+  /* background-color: rgba(245, 247, 251, 1); */
+  border-radius: 10px;
+  width: 18.72rem;
+  height: 5.2rem;
+  margin: 0.454rem 0 0 0.587rem;
+}
+
+.paragraph_1 {
+  width: 17.814rem;
+  height: 6.507rem; /* 固定容器高度 */
+  overflow-y: auto; /* 使内容在超出时纵向滚动 */
+  overflow-wrap: break-word;
+  color: rgba(64, 69, 75, 1);
+  font-size: 0.746rem;
+  font-family: Helvetica, "Microsoft YaHei", Arial, sans-serif;
+  font-weight: NaN;
+  text-align: left;
+  line-height: 1.04rem;
+  margin: -4.507rem 0 0.374rem 1.04rem;
+  padding: 0.5rem; /* 增加内边距，提升可读性 */
+  background-color: rgba(245, 247, 251, 1); /* 保持一致的背景色 */
+  border-radius: 10px; /* 增加圆角效果 */
+}

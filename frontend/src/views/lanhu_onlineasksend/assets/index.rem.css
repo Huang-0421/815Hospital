@@ -1,0 +1,95 @@
+html {
+  font-size: 37.5px;
+}
+
+.page {
+  background-color: rgba(235, 251, 237, 1.0);
+  /* background: linear-gradient(to bottom right,#fff,#49B9AD ); */
+  position: relative;
+  width: 20rem;
+  height: 43.307rem;
+  overflow: hidden;
+}
+
+.block_1 {
+  width: 100%;
+  height: 100%;
+}
+
+.box_1 {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.section_1 {
+  background-color: rgba(255, 255, 255, 1);
+  width: 20rem;
+  height: 2.214rem;
+  margin-top: 0rem;
+  margin-top: 0rem;
+}
+
+.label_1 {
+  width: 1.067rem;
+  height: 1.067rem;
+  margin: 0.64rem 0 0 0.64rem;
+}
+
+.text_1 {
+  width: 3.84rem;
+  height: 1.334rem;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 0.96rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 1.334rem;
+  margin: 0.507rem 8.08rem 0 6.374rem;
+}
+
+.text_2 {
+  width: 2.96rem;
+  height: 0.907rem;
+  overflow-wrap: break-word;
+  color: rgba(197, 200, 203, 1);
+  font-size: 0.64rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.907rem;
+  margin: 0.8rem 0 32.534rem 8.507rem;
+}
+
+
+
+.box_3 {
+ /* width: 20rem;
+  height: 2.614rem; */
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.group_1 {
+  background-color: rgba(245, 247, 251, 1);
+  border-radius: 20px;
+  width: 13.654rem;
+  height: 1.867rem;
+  margin: 0.374rem 0 0 2.24rem;
+}
+
+.image_1 {
+  width: 1.574rem;
+  height: 1.627rem;
+  margin-top: 0.4rem;
+  margin-left: -2rem;
+  /* margin: 0.56rem 1.84rem 0 0.694rem; */
+}
+.el-input{
+	position: fixed;
+	bottom: 0;
+}

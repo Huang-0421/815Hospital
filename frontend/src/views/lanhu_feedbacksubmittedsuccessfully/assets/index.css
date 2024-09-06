@@ -1,0 +1,110 @@
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 750px;
+  height: 1624px;
+  overflow: hidden;
+}
+
+.box_1 {
+  width: 750px;
+  height: 1624px;
+  background: url(./img/MasterDDSSlicePNG152632e7cb0fd329eb75153576731c25.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+}
+
+.nav-bar_1 {
+  width: 750px;
+  height: 88px;
+  margin-top: 87px;
+}
+
+.icon_1 {
+  width: 40px;
+  height: 40px;
+  margin: 25px 0 0 24px;
+}
+
+.text_1 {
+  width: 144px;
+  height: 50px;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 36px;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 50px;
+  margin: 20px 303px 0 239px;
+}
+
+.image-wrapper_1 {
+  background-color: rgba(216, 216, 216, 1);
+  height: 350px;
+  width: 350px;
+  margin: 71px 0 0 200px;
+}
+
+.icon_2 {
+  width: 300px;
+  height: 266px;
+  margin: 42px 0 0 25px;
+}
+
+.text-group_1 {
+  width: 456px;
+  height: 99px;
+  margin: 40px 0 0 147px;
+}
+
+.text_2 {
+  width: 384px;
+  height: 45px;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 32px;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 45px;
+  margin-left: 36px;
+}
+
+.text_3 {
+  width: 456px;
+  height: 34px;
+  overflow-wrap: break-word;
+  color: rgba(96, 105, 114, 1);
+  font-size: 24px;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 34px;
+  margin-top: 20px;
+}
+
+.button_1 {
+  border-radius: 20px;
+  height: 80px;
+  border: 1px solid rgba(73, 185, 173, 1);
+  width: 702px;
+  margin: 179px 0 630px 24px;
+}
+
+.text_4 {
+  width: 120px;
+  height: 42px;
+  overflow-wrap: break-word;
+  color: rgba(73, 185, 173, 1);
+  font-size: 30px;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 42px;
+  margin: 19px 0 0 291px;
+}

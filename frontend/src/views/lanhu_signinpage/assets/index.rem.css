@@ -1,0 +1,407 @@
+html {
+  font-size: 37.5px;
+}
+
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 20rem;
+  height: 39rem;
+  overflow: hidden;
+}
+
+.section_1 {
+  background-image: linear-gradient(
+    180deg,
+    rgba(247, 255, 249, 1) 0,
+    rgba(255, 255, 255, 1) 100%
+  );
+  position: relative;
+  width: 20rem;
+  height: 12.8rem;
+}
+
+.box_1 {
+  background-color: rgba(217, 249, 247, 1);
+  border-radius: 50%;
+  position: relative;
+  width: 8.907rem;
+  height: 10.8rem;
+}
+
+.text_1 {
+  width: 2.667rem;
+  height: 1.867rem;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 1.333rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.867rem;
+  margin: 3.947rem 0 0 0.64rem;
+}
+
+.text_2 {
+  width: 9.974rem;
+  height: 1.04rem;
+  overflow-wrap: break-word;
+  color: rgba(61, 61, 61, 1);
+  font-size: 1.546rem;
+  font-family: YouSheBiaoTiHei-Bold;
+  font-weight: 700;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.04rem;
+  margin: 5rem 0 5.014rem 0.534rem;
+}
+
+
+.section_2 {
+  height: 12.8rem;
+  background: url(./img/MasterDDSSlicePNGbb033cf614686a13a4ce0e36dcf87234.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  width: 15.84rem;
+  position: absolute;
+  left: 4.16rem;
+  top: 0;
+}
+
+.block_1 {
+  background-color: rgba(216, 216, 216, 0.01);
+  height: 5.76rem;
+  width: 6.614rem;
+  position: relative;
+  margin: 2.534rem 0 0 7.76rem;
+}
+
+.section_3 {
+  width: 1.6rem;
+  height: 1.6rem;
+  margin: 1.92rem 0 0 2.747rem;
+}
+
+.section_4 {
+  height: 4.56rem;
+  background: url(./img/MasterDDSSlicePNG769b547169a7c64b8080e7e0f3478ac4.png)
+    0rem -2.454rem no-repeat;
+  background-size: 5.68rem 5.68rem;
+  width: 3.494rem;
+  position: absolute;
+  left: 0;
+  top: 2.454rem;
+}
+
+.thumbnail_1 {
+  width: 0.347rem;
+  height: 0.374rem;
+  margin: 0.48rem 0 0 0.747rem;
+}
+
+.box_2 {
+  position: absolute;
+  left: 1.12rem;
+  top: 1.174rem;
+  width: 3.12rem;
+  height: 1.094rem;
+}
+
+.box_3 {
+  background-color: rgba(242, 255, 238, 1);
+  border-radius: 50%;
+  width: 8.64rem;
+  height: 9.414rem;
+}
+
+.image_1 {
+  position: absolute;
+  left: 18.534rem;
+  top: 4.987rem;
+  width: 3.494rem;
+  height: 4.694rem;
+}
+
+.section_5 {
+  width: 20rem;
+  height: 30.534rem;
+  margin-bottom: 0.027rem;
+}
+
+.text_3 {
+  width: 2.56rem;
+  height: 1.2rem;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 0.853rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.2rem;
+  margin: 8.827rem 0 0 0.8rem;
+}
+
+.box_4 {
+  width: 17.974rem;
+  height: 3.04rem;
+  margin: 0.16rem 0 0 0.8rem;
+}
+
+.text-wrapper_1 {
+  border-radius: 20px;
+  height: 2.4rem;
+  border: 1px solid rgba(73, 185, 173, 1);
+  margin-top: 0.64rem;
+  width: 8.72rem;
+}
+
+.text_4 {
+  width: 4.16rem;
+  height: 0.96rem;
+  overflow-wrap: break-word;
+  color: rgba(197, 200, 203, 1);
+  font-size: 0.693rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.96rem;
+  margin: 0.72rem 0 0 0.374rem;
+}
+
+.box_5 {
+  border-radius: 20px;
+  width: 7.894rem;
+  height: 3.04rem;
+  border: 1px solid rgba(73, 185, 173, 1);
+}
+
+.box_6 {
+  width: 10.667rem;
+  height: 0.907rem;
+  margin: 1.387rem 0 0 0.8rem;
+}
+
+.image-wrapper_1 {
+  background-color: rgba(73, 185, 173, 1);
+  border-radius: 5px;
+  height: 0.8rem;
+  margin-top: 0.027rem;
+  width: 0.8rem;
+}
+
+.label_1 {
+  width: 0.8rem;
+  height: 0.8rem;
+}
+
+.text_5 {
+  width: 4.48rem;
+  height: 0.907rem;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 0.64rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.907rem;
+  margin-left: 0.267rem;
+}
+
+.text_6 {
+  width: 5.12rem;
+  height: 0.907rem;
+  overflow-wrap: break-word;
+  color: rgba(73, 185, 173, 1);
+  font-size: 0.64rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.907rem;
+  margin-left: 1rem;
+}
+
+.text-wrapper_2 {
+  background-color: rgba(73, 185, 173, 1);
+  border-radius: 20px;
+  height: 2.4rem;
+  width: 18.72rem;
+  margin: 2.027rem 0 0 0.64rem;
+}
+
+.text_7 {
+  width: 1.6rem;
+  height: 1.12rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.8rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 1.12rem;
+  margin: 0.64rem 0 0 8.56rem;
+}
+
+.text_8 {
+  width: 5.76rem;
+  height: 1.04rem;
+  overflow-wrap: break-word;
+  color: rgba(73, 185, 173, 1);
+  font-size: 0.64rem;
+  font-family: SimHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.04rem;
+  margin: 1.6rem 0 7.947rem 1.094rem;
+}
+
+.section_6 {
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 50px;
+  position: absolute;
+  left: 0;
+  top: 9.147rem;
+  width: 20rem;
+  height: 12.48rem;
+}
+
+.text_9 {
+  width: 2.56rem;
+  height: 1.2rem;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 0.853rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.2rem;
+  margin: 1.6rem 0 0 0.64rem;
+}
+
+.block_2 {
+  border-radius: 20px;
+  width: 18.72rem;
+  height: 2.4rem;
+  border: 1px solid rgba(73, 185, 173, 1);
+  margin: 0.8rem 0 0 0.64rem;
+}
+
+.text_10 {
+  width: 1.707rem;
+  height: 1.2rem;
+  overflow-wrap: break-word;
+  color: rgba(28, 32, 35, 1);
+  font-size: 0.853rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.2rem;
+  margin: 1.2rem 0 0 0.64rem;
+}
+
+.text-wrapper_3 {
+  border-radius: 20px;
+  height: 2.4rem;
+  border: 1px solid rgba(73, 185, 173, 1);
+  width: 18.72rem;
+  margin: 0.8rem 0 0.88rem 0.64rem;
+}
+
+.text_11 {
+  width: 3.467rem;
+  height: 0.96rem;
+  overflow-wrap: break-word;
+  color: rgba(197, 200, 203, 1);
+  font-size: 0.693rem;
+  font-family: Microsoft YaHei-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.96rem;
+  margin: 0.72rem 0 0 0.8rem;
+}
+
+.image_2 {
+  position: absolute;
+  left: 4rem;
+  top: -1.093rem;
+  width: 17.76rem;
+  height: 24.774rem;
+}
+
+/* 输入框样式 */
+.input-phone,
+.input-password,
+.input-code {
+  border: 1px solid rgba(73, 185, 173, 1);
+  border-radius: 20px;
+  width: 18.72rem;
+  height: 2.4rem;
+  font-size: 0.853rem;
+  font-family: Microsoft YaHei-Regular;
+  padding-left: 0.8rem;
+  margin: 0.8rem 0 0 0.64rem;
+}
+
+/* 调整验证码输入框宽度和位置 */
+.input-code {
+  width: 8.72rem;
+  margin-top: 0.64rem;
+  margin-left: 0.01rem;
+}
+
+input::placeholder {
+  color: rgba(197, 200, 203, 1);
+}
+.alert-popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.alert-content {
+  background-color: white;
+  padding: 1rem;
+  border-radius: 10px;
+  text-align: center;
+  width: 80%;
+  max-width: 300px;
+}
+
+.alert-content p {
+  margin: 0 0 1rem;
+  font-size: 1rem;
+}
+
+.alert-content button {
+  padding: 0.5rem 1rem;
+  background-color: #49b9ad;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.yanzhengma {
+  width: 50%; /* 宽度设定为父容器的 50%，你可以根据实际需要调整 */
+  height: auto; /* 高度自动适应比例 */
+  max-width: 8rem; /* 设置最大宽度，防止图片在大屏幕下过大 */
+  max-height: 2.4rem; /* 设置最大高度 */
+  border-radius: 5px; /* 圆角处理，让图片更加美观 */
+  cursor: pointer; /* 鼠标悬停时显示为手型，表明可以点击 */
+  object-fit: cover; /* 保持内容适应容器 */
+}
